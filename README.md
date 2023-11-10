@@ -21,6 +21,8 @@ This is the challenge of results-summary-component from FrontenMentor ,I have do
 ### Screenshot
 
 ![](./screenshot1.png)
+
+Active -state
 ![](./screenshot2.png)
 
 ### Links
